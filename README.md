@@ -9,7 +9,7 @@ Requirements:
 - Enable "Custom Fonts".
 - Enable "Custom Sounds".
 
-Note: Wallpaper/Background are costumizeable, check Wallpaper folder then once you copy the image link go to Themer settings and change it there manually.
+Note: Wallpaper/Background are costumizeable, check Wallpaper folder then once you copy the image link go to Themer settings and change it there manually. Or if you still don't understand how to do it, I've put a video on the before Wallpaper/Background showcase.
 
 ============================================================================================
 
