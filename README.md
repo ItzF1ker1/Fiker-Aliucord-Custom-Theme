@@ -1,2 +1,2 @@
 # Fiker's Aliucord Custom Theme
-An Aliucord custom theme with custom background.
+An Aliucord custom theme.
