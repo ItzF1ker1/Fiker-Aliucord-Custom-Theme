@@ -9,7 +9,8 @@ Requirements:
 - Enable "Custom Fonts".
 - Enable "Custom Sounds".
 
-Note: Wallpaper are costumizeable, check Wallpaper folder then once you copy the image link go to Themer settings and change it there manually.
+Note: Wallpaper/Background are costumizeable, check Wallpaper folder then once you copy the image link go to Themer settings and change it there manually.
+
 
 [My Custom Theme Without Background](https://raw.githubusercontent.com/ItzF1ker1/Fiker-Aliucord-Custom-Theme/main/Fiker's%20Actual%20Theme%20XD%20(NoCustomBG).json)
 
