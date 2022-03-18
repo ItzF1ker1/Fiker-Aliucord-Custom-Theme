@@ -2,7 +2,7 @@
 Wallpapers Drawn by Me (ItzF1ker1)
 
 # How to Put on Different Wallpaper/Background
-Click the image below and you'll get redirected to YouTube.
+Click the image below and you'll get redirected to YouTube because the file size are too big for GitHub and I'm lazy to compress it.
 
 [![Tutorial](https://raw.githubusercontent.com/ItzF1ker1/Fiker-Aliucord-Custom-Theme/main/Wallpaper/ThumnailTutorial.png)](https://youtu.be/BkfUpYTJ5kc)
 
