@@ -11,7 +11,7 @@ Requirements:
 
 Note: Wallpaper/Background are costumizeable, check Wallpaper folder then once you copy the image link go to Themer settings and change it there manually. Or if you still don't understand how to do it, I've put a video on the before Wallpaper/Background showcase.
 
-===========================================================================
+==================================================================
 
 [My Custom Theme Without Background](https://raw.githubusercontent.com/ItzF1ker1/Fiker-Aliucord-Custom-Theme/main/Fiker's%20Actual%20Theme%20XD%20(NoCustomBG).json)
 
