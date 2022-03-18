@@ -2,7 +2,7 @@
 An [Aliucord](https://github.com/Aliucord) custom theme with [Themer](https://github.com/Vendicated/AliucordPlugins/tree/main/Themer) plugin.
 
 # Downloads:
-[My Custom Theme With Background](https://raw.githubusercontent.com/ItzF1ker1/Fiker-Aliucord-Custom-Theme/main/Fikers%20Actual%20Theme%20XD.json)
+[Click Here to Download My Custom Theme With Background](https://raw.githubusercontent.com/ItzF1ker1/Fiker-Aliucord-Custom-Theme/main/Fikers%20Actual%20Theme%20XD.json)
 
 Requirements:
 - Set "Transparency Mode" to "Full".
@@ -13,7 +13,7 @@ Note: Wallpaper/Background are costumizeable, check Wallpaper folder then once y
 
 ==================================================================
 
-[My Custom Theme Without Background](https://raw.githubusercontent.com/ItzF1ker1/Fiker-Aliucord-Custom-Theme/main/Fiker's%20Actual%20Theme%20XD%20(NoCustomBG).json)
+[Click Here to Download My Custom Theme Without Background](https://raw.githubusercontent.com/ItzF1ker1/Fiker-Aliucord-Custom-Theme/main/Fiker's%20Actual%20Theme%20XD%20(NoCustomBG).json)
 
 Requirements:
 - Set "Transparency Mode" to "None".
