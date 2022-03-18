@@ -1,6 +1,9 @@
 # Wallpapers Preview and Copy Link
 Wallpapers Drawn by Me (ItzF1ker1)
 
+# How to Put on Different Wallpaper/Background
+![Tutorial]()
+
 # "[something special (Default)](https://raw.githubusercontent.com/ItzF1ker1/Fiker-Aliucord-Custom-Theme/main/Wallpaper/ItzF1ker1%20-%20something%20special_Wallpaper.png)"
 https://raw.githubusercontent.com/ItzF1ker1/Fiker-Aliucord-Custom-Theme/main/Wallpaper/ItzF1ker1%20-%20something%20special_Wallpaper.png
 
