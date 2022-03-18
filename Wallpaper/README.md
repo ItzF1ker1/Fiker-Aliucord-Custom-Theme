@@ -2,7 +2,7 @@
 Wallpapers Drawn by Me (ItzF1ker1)
 
 # How to Put on Different Wallpaper/Background
-![Tutorial](https://youtu.be/BkfUpYTJ5kc)
+[![Tutorial](https://raw.githubusercontent.com/ItzF1ker1/Fiker-Aliucord-Custom-Theme/main/Wallpaper/ThumnailTutorial.png)](https://youtu.be/BkfUpYTJ5kc)
 
 # "[something special (Default)](https://raw.githubusercontent.com/ItzF1ker1/Fiker-Aliucord-Custom-Theme/main/Wallpaper/smthspcl.png)"
 Copy this link:
