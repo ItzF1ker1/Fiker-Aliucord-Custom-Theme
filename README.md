@@ -1,5 +1,5 @@
-# Fiker's Aliucord Custom Theme
-An Aliucord custom theme with Themer plugin.
+# Fiker's [Aliucord](https://github.com/Aliucord) Custom Theme
+An [Aliucord](https://github.com/Aliucord) custom theme with [Themer](https://github.com/Vendicated/AliucordPlugins/tree/main/Themer) plugin.
 
 # Downloads:
 [My Custom Theme With Background](https://raw.githubusercontent.com/ItzF1ker1/Fiker-Aliucord-Custom-Theme/main/Fikers%20Actual%20Theme%20XD.json)
