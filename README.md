@@ -31,8 +31,6 @@ Requirements:
 
 ![Chat 2](https://raw.githubusercontent.com/ItzF1ker1/Fiker-Aliucord-Custom-Theme/main/images/Chat_2.png)
 
-![Chat 3](https://raw.githubusercontent.com/ItzF1ker1/Fiker-Aliucord-Custom-Theme/main/images/Chat_3.png)
-
 ![Channel Info and Members](https://raw.githubusercontent.com/ItzF1ker1/Fiker-Aliucord-Custom-Theme/main/images/Channel_Info_And_Members.png)
 
 # Preview (Theme Without Background):
